@@ -35,14 +35,14 @@ Visualization and analytics are built using **Power BI**.
 ---
 
 ## 📸 Screenshots
-![Market Trends](assets/screenshots/market_trends.png)
-![information and about](assets/screenshots/market_trends.png)
+![Market Trends](https://github.com/KishoreKumar114/realtime-mnc-stockmarket/blob/main/visual%20screenshot1.png)
+![information and about](https://github.com/KishoreKumar114/realtime-mnc-stockmarket/blob/main/visual%20screenshot2.png)
 
 ---
 
 ## 🧑‍💻 Author
-KISHORE KUMAR R
-kishorekumarr2k4@gmail.com
-[https://github.com/KishoreKumar114]
-[https://www.linkedin.com/in/kishore-kumar-20ba242b0]
+-KISHORE KUMAR R
+-[kishorekumarr2k4@gmail.com]
+-[https://github.com/KishoreKumar114]
+-[https://www.linkedin.com/in/kishore-kumar-20ba242b0]
 
