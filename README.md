@@ -35,7 +35,8 @@ Visualization and analytics are built using **Power BI**.
 ---
 
 ## 📸 Screenshots
-
+![Market Trends](assets/screenshots/market_trends.png)
+![information and about](assets/screenshots/market_trends.png)
 
 ---
 
